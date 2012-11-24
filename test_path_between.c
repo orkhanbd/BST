@@ -16,7 +16,7 @@ START_TEST(test_path_between) {
 	//        5    15                
 	//       / \   / \                        
 	//      2   7 12  17    
-	//		   /
+	//         /
 	//        6 	   		
                                        
 	BST *el1, *el2;
