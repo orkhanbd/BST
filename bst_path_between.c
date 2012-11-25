@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#unclude "bst.h"
 #include "bst_path_between.h"
 
 BST** path_between(BST* root, BST* sNode, BST* fNode) {
